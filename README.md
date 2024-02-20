@@ -1,2 +1,2 @@
-# clonedGadgTech
-An eCommerce Website
+# GadgTech
+A Node App which connects to MongoDB
